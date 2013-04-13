@@ -1,0 +1,11 @@
+#iPhone Wireframes
+
+###A bunch of Photoshop shape layers to make wireframing your next iPhone app just a little easier.
+
+8597px of retina-friendly-made-to-measure-scalable goodness presented in two unique styles, each with over 60 individual elements.
+
+That's one heck of a kit.
+
+##Versions
+
+As this resource may well expand, it made the most sense to host it on GitHub for the versioning, wiki and issues features.
