@@ -1,8 +1,8 @@
-#iPhone Wireframes
+#[WireKit](http://adamwhitcroft.com/wirekit)
 
-A bunch of Photoshop shape layers to make wireframing your next iPhone app just a little easier.
+A bunch of Photoshop shape layers to make wireframing your next iPhone app just a little easier, by [@adamwhitcrof](https://twitter.com/adamwhitcroft).
 
-840 x 8600 pixels of retina-friendly-made-to-measure-scalable goodness presented in two unique styles, each with over 60 individual elements.
+840 x 8600 pixels of retina-friendly-made-to-measure-scalable goodness presented in two unique styles, each with over 60 of the most common UI elements.
 
 ##Versions
 
